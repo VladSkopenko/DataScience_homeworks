@@ -2,11 +2,13 @@
 ```bash
    git clone https://github.com/VladSkopenko/DataScience_homeworks.git
 ```
-# Hw1.ipynb
+# Hw1
 ## Основні операції з векторами.
-# Hw2_1.ipynb
+# Hw2
 ## Базові операції з dataframe та візуалізація даних
-# Hw3.ipynb
+# Hw3
 ## Лінійна регресія
-# Hw4.ipynb
+# Hw4
 ## Лінійна регресія: перенавчання і регуляризація
+# HW5
+## ...
